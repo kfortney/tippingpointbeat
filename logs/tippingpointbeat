@@ -1,0 +1,36 @@
+2017-10-19T02:16:11-04:00 INFO Home path: [/root/go/src/github.com/kfortney/tippingpointbeat] Config path: [/root/go/src/github.com/kfortney/tippingpointbeat] Data path: [/root/go/src/github.com/kfortney/tippingpointbeat/data] Logs path: [/root/go/src/github.com/kfortney/tippingpointbeat/logs]
+2017-10-19T02:16:11-04:00 INFO Setup Beat: tippingpointbeat; Version: 5.6.4
+2017-10-19T02:16:11-04:00 INFO Loading template enabled. Reading template file: /root/go/src/github.com/kfortney/tippingpointbeat/tippingpointbeat.template.json
+2017-10-19T02:16:11-04:00 INFO Loading template enabled for Elasticsearch 2.x. Reading template file: /root/go/src/github.com/kfortney/tippingpointbeat/tippingpointbeat.template-es2x.json
+2017-10-19T02:16:11-04:00 INFO Loading template enabled for Elasticsearch 6.x. Reading template file: /root/go/src/github.com/kfortney/tippingpointbeat/tippingpointbeat.template-es6x.json
+2017-10-19T02:16:11-04:00 INFO Elasticsearch url: http://localhost:9200
+2017-10-19T02:16:11-04:00 INFO Activated elasticsearch as output plugin.
+2017-10-19T02:16:11-04:00 INFO Publisher name: confluent-01
+2017-10-19T02:16:11-04:00 INFO Flush Interval set to: 1s
+2017-10-19T02:16:11-04:00 INFO Max Bulk Size set to: 50
+2017-10-19T02:16:11-04:00 INFO tippingpointbeat start running.
+2017-10-19T02:16:11-04:00 INFO tippingpointbeat is running! Hit CTRL-C to stop it.
+2017-10-19T02:16:11-04:00 INFO Metrics logging every 30s
+2017-10-19T02:16:12-04:00 INFO Event sent
+2017-10-19T02:16:13-04:00 INFO Event sent
+2017-10-19T02:16:13-04:00 INFO Connected to Elasticsearch version 7.0.0-alpha1
+2017-10-19T02:16:13-04:00 INFO Trying to load template for client: http://localhost:9200
+2017-10-19T02:16:13-04:00 INFO Template already exists and will not be overwritten.
+2017-10-19T02:16:14-04:00 INFO Event sent
+2017-10-19T02:16:15-04:00 INFO Event sent
+2017-10-19T02:16:16-04:00 INFO Event sent
+2017-10-19T02:16:17-04:00 INFO Event sent
+2017-10-19T02:16:18-04:00 INFO Event sent
+2017-10-19T02:16:19-04:00 INFO Event sent
+2017-10-19T02:16:20-04:00 INFO Event sent
+2017-10-19T02:16:21-04:00 INFO Event sent
+2017-10-19T02:16:22-04:00 INFO Event sent
+2017-10-19T02:16:23-04:00 INFO Event sent
+2017-10-19T02:16:24-04:00 INFO Event sent
+2017-10-19T02:16:25-04:00 INFO Event sent
+2017-10-19T02:16:26-04:00 INFO Event sent
+2017-10-19T02:16:27-04:00 INFO Event sent
+2017-10-19T02:16:28-04:00 INFO Event sent
+2017-10-19T02:16:29-04:00 INFO Event sent
+2017-10-19T02:16:30-04:00 INFO Event sent
+2017-10-19T02:16:31-04:00 INFO Event sent

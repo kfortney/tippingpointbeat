@@ -1,0 +1,13 @@
+- key: tippingpointbeat
+  title: tippingpointbeat
+  description:
+  fields:
+    - name: counter
+      type: long
+      required: true
+      description: tippingpointbeat
+      required: true
+    - name: target
+      type: text
+    - name: filename
+      type: text

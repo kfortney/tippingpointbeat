@@ -1,0 +1,9 @@
+################### Tippingpointbeat Configuration Example #########################
+
+############################# Tippingpointbeat ######################################
+
+tippingpointbeat:
+  # Defines how often an event is sent to the output
+  period: 1s
+  target: "https://httpbin.org/post"
+  filename: "payload.id"
